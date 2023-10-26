@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "itea_homework_17", "itea_homework_17\itea_homework_17.vcxproj", "{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Debug|x64.ActiveCfg = Debug|x64
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Debug|x64.Build.0 = Debug|x64
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Debug|x86.Build.0 = Debug|Win32
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Release|x64.ActiveCfg = Release|x64
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Release|x64.Build.0 = Release|x64
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Release|x86.ActiveCfg = Release|Win32
+		{6DE4AEC9-D78B-4FE3-AC09-603F91FE50B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18E2794-7EAD-4C69-956F-4AD503D29471}
+	EndGlobalSection
+EndGlobal
