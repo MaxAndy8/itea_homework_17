@@ -34,6 +34,8 @@ public:
     virtual void setPassportNumber(const std::string& newPassportNumber);
     virtual void setBirthDate(const std::tm& newBirthDate);
     virtual void setAdditionalInfo(const std::string& newAdditionalInfo);
+    
+    virtual ~Person();
 };
 
 #endif

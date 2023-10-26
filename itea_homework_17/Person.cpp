@@ -58,3 +58,7 @@ void Person::setAdditionalInfo(const std::string& newAdditionalInfo) {
     additionalInfo = newAdditionalInfo;
 }
 
+Person::~Person()
+{
+}
+

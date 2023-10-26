@@ -27,6 +27,8 @@ public:
     virtual void setInstitution(const std::string& newInstitution);
     virtual void setMajor(const std::string& newMajor);
     virtual void setGroup(const std::string& newGroup);
+
+    virtual ~Student();
 };
 
 #endif

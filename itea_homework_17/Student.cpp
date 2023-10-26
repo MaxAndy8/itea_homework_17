@@ -24,3 +24,7 @@ void Student::setMajor(const std::string& newMajor) {
 void Student::setGroup(const std::string& newGroup) {
     group = newGroup; 
 }
+
+Student::~Student()
+{
+}
